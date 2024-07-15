@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.season-image {
+    width: 100%;
+    height: 85vh;
+}
+
+.button {
+    color: white;
+    background-color: #cbd2d9;
+    font-family: "Roboto";
+    font-size: 14px;
+    width: 80px;
+    height: 32px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.spring-button {
+    background-color: #3a7333;
+}
+
+.summer-button {
+    background-color: #e0bb00;
+}
+
+.autumn-button {
+    background-color: #b04400;
+}
+
+.winter-button {
+    background-color: #0f7cb6;
+}
